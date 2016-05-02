@@ -1,0 +1,40 @@
+= Bloodborne Attire Mixer
+
+Bloodborne is a wonderful RPG game, with a lot of attires to chose but, whats is the best or more convenient for each situation?
+
+__Bloodborne Attire Mixer__ is a simple command line application to find the best attire set for your needs.
+
+
+== Build the project ==
+
+Prerequisites:
+
+* Java 8 (JDK)
+* Gradle
+
+In the Terminal command line, execute:
+
+----
+$ gradle clean build
+----
+
+
+== Run de application ==
+
+After build the application, you should copy the configuration file in the same directory where is the jar file.
+
+----
+$ cp src/main/resources/application.yml build/libs
+----
+
+Then move to the jar directory, and edit this file to add your attire sets or to modify the search filters.
+
+----
+$ cd build/libs
+----
+
+After edit the file, you can run the application with:
+
+----
+$ java -jar bloodborne-1.0.jar
+----
