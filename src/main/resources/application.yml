@@ -120,3 +120,48 @@ bloodborne:
         - name: Vigilante sepulcral
           type: LEGS
           attributes: [50, 50, 60, 50, 60, 46, 60, 29, 28, 28, 23]
+
+    - name: Cazador ceniciento
+      attires:
+        - name: Gorra de lobo gris
+          type: HEAD
+          attributes: [50, 40, 40, 50, 20, 50, 30, 9, 12, 19, 37]
+        - name: Cazador ceniciento
+          type: CHEST
+          attributes: [100, 110, 80, 110, 70, 50, 70, 25, 45, 60, 70]
+        - name: Cazador ceniciento
+          type: HANDS
+          attributes: [40, 60, 50, 40, 50, 40, 50, 13, 24, 28, 32]
+        - name: Cazador ceniciento
+          type: LEGS
+          attributes: [60, 50, 50, 60, 50, 50, 50, 15, 26, 30, 37]
+
+    - name: Cazador de Henryk
+      attires:
+        - name: Cazador de Henryk
+          type: HEAD
+          attributes: [50, 50, 40, 40, 20, 30, 60, 7, 14, 15, 20]
+        - name: Cazador de Henryk
+          type: CHEST
+          attributes: [100, 100, 80, 80, 70, 100, 150, 21, 41, 45, 60]
+        - name: Cazador de Henryk
+          type: HANDS
+          attributes: [50, 40, 50, 40, 50, 60, 70, 11, 22, 23, 32]
+        - name: Cazador de Henryk
+          type: LEGS
+          attributes: [50, 60, 60, 50, 50, 60, 80, 12, 24, 25, 34]
+
+    - name: Gascoigne
+      attires:
+        - name: Gascoigne
+          type: HEAD
+          attributes: [40, 40, 30, 40, 50, 50, 50, 17, 13, 7, 15]
+        - name: Gascoigne
+          type: CHEST
+          attributes: [90, 110, 100, 80, 110, 110, 100, 52, 40, 23, 45]
+        - name: Gascoigne
+          type: HANDS
+          attributes: [40, 60, 60, 50, 60, 60, 40, 28, 21, 12, 24]
+        - name: Gascoigne
+          type: LEGS
+          attributes: [50, 60, 60, 50, 60, 60, 50, 31, 23, 14, 26]
