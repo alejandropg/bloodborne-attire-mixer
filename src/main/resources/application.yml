@@ -165,3 +165,18 @@ bloodborne:
         - name: Gascoigne
           type: LEGS
           attributes: [50, 60, 60, 50, 60, 60, 50, 31, 23, 14, 26]
+
+    - name: Buscador de tumbas
+      attires:
+        - name: Buscador de tumbas
+          type: HEAD
+          attributes: [40, 40, 50, 50, 60, 50, 50, 18, 16, 4, 15]
+        - name: Buscador de tumbas
+          type: CHEST
+          attributes: [90, 90, 100, 90, 120, 100, 110, 55, 57, 13, 45]
+        - name: Buscador de tumbas
+          type: HANDS
+          attributes: [40, 40, 60, 50, 60, 60, 60, 29, 27, 6, 24]
+        - name: Buscador de tumbas
+          type: LEGS
+          attributes: [50, 60, 60, 60, 70, 60, 50, 31, 29, 8, 26]
